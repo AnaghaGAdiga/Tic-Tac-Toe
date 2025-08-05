@@ -20,7 +20,7 @@ A fun and interactive **Tic Tac Toe game** built using **HTML**, **CSS**, and **
 
 ## 🖼️ Live Preview
 
-![Game Screenshot](https://github.com/YourUsername/YourRepoName/blob/main/preview.png?raw=true)  
+![Game Screenshot](https://github.com/YourUsername/Tic-Tac-Toe/preview.png?raw=true)  
 *X wins the game with style!*
 
 ---
